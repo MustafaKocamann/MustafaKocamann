@@ -13,6 +13,15 @@ Agentic AI · LLM Engineering · Retrieval-Augmented Generation · Applied Machi
   <img alt="Production AI" src="https://img.shields.io/badge/Production_AI-065F46?style=for-the-badge" />
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/mustafakocamann/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mustafakocaman702@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/mustafakocaman702@gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -94,12 +103,3 @@ I care about the trade-offs that determine whether an AI system is useful in pra
 I'm particularly interested in **AI Engineer, Forward Deployed Engineer, LLM Engineer, Agentic AI Engineer, and Data Scientist** opportunities, along with adjacent applied AI and machine learning roles.
 
 I enjoy working on problems where **model intelligence, sound software engineering, and measurable product value** need to come together.
-
-<!--
-PERSONALIZATION CHECKLIST (remove this comment whenever you like):
-- Add your name to the heading if you want it displayed.
-- Add verified links to your LinkedIn, portfolio, or contact email.
-- Pin 3–5 repositories that demonstrate the areas above.
-- Optionally add a Featured Projects section with real links, descriptions, and measured outcomes.
-Avoid adding invented achievements, metrics, or broken GitHub statistics widgets.
--->
